@@ -1,0 +1,4 @@
+{
+    "watch": ["index.js", "utils/", "public/", "routes/", "controllers/"],
+    "ext": "js, css"
+  }
